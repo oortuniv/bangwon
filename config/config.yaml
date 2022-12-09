@@ -1,0 +1,11 @@
+id: me
+port: 4536
+bangwons:
+  - id: me
+    server: http://localhost:4536
+  - id: other-1
+    server: http://localhost:4537
+  - id: other-2
+    server: http://localhost:4538
+
+src_path: "C:/dev/bangwon/src/window_sample"
